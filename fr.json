@@ -267,7 +267,7 @@
   "communityMenu": {
     "buttons": {
       "civilian": "Civil",
-      "dmv": "Bureau des licenses",
+      "dmv": "Bureau des permis",
       "law": "Justice",
       "police": "Police",
       "fire": "Pompiers",
@@ -287,7 +287,7 @@
       "newCharacter": "Nouveau personnage",
       "editCharacter": "Editer le personnage",
       "records": "Antécédents",
-      "dmv": "Bureau des licenses"
+      "dmv": "Bureau des permis
     },
     "characterEditor": {
       "first": "Prénom",
@@ -386,12 +386,12 @@
       },
       "editor": {
         "recordType": "Type de dossier",
-        "dmvType": "Type de license",
+        "dmvType": "Type de permis
         "addRecord": "Ajouter un dossier",
         "saveRecord": "Sauvegarder le dossier",
         "removeRecord": "Supprimer le dossier",
         "pdf": "PDF",
-        "applyForDmv": "Appliquer le status license",
+        "applyForDmv": "Appliquer pour un permis",
         "copyLink": "Copier le lien du dossier",
         "pasteLink": "Coller le lien du dossier",
         "linkTitle": "Link Title",
@@ -784,7 +784,7 @@
         "userAccountRestrictions": "Restrictions de compte d'utilisateur",
         "subtext1": "Sonoran CAD vous permet de limiter le nombre de personnages civils, de licences et d'immatriculations de véhicules que chaque compte d'utilisateur individuel peut créer.",
         "maxCivilians": "Max de personnage civil",
-        "maxLicenses": "Max de licences civil *",
+        "maxLicenses": "Max de permis civil *",
         "maxRegistrations": "Nombre maximal d'immatriculations de véhicules civils *",
         "note": "* Ces limites ne s'appliquent PAS aux communautés pour lesquelles la synchronisation de base de données est activée."
       },
@@ -993,7 +993,7 @@
       "recordTypes": {
         "warrant": "Mandat",
         "bolo": "Avis de recherche",
-        "license": "licence",
+        "license": "permis",
         "vehicleRegistration": "Immatriculation des véhicules",
         "policeRecord": "Casier judiciaire",
         "policeReport": "Rapport de police",
@@ -1001,7 +1001,7 @@
         "medicalReport": "Rapport médical",
         "fireRecord": "Registre d'incendie",
         "fireReport": "Rapport d'incendie",
-        "dmvRecord": "Enregistrement de license",
+        "dmvRecord": "Enregistrement de permis",
         "lawRecord": "Dossier de justice",
         "lawReport": "Rapport de justice"
       },
@@ -1138,7 +1138,7 @@
       "policeAdvanced": "Police - Avancé",
       "emsAdvanced": "Ambulancier - Avancé",
       "fireAdvanced": "Pompier - Avancé",
-      "dmvRecords": "Enregistrements des licenses",
+      "dmvRecords": "Enregistrements des permis",
       "modifyStreetSigns": "Modifier les panneaux d'affichages interactif",
       "lawRecords": "Dossiers juridiques",
       "adminAccess": "Accès administrateur",
